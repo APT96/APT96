@@ -11,6 +11,5 @@
 
 https://apt96.com
 
-![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fapt96.com)
 
 * * *
